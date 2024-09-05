@@ -23,28 +23,10 @@
       "id": 8
     },
     {
-      "name": "rohsan kumar",
-      "age": 23,
-      "email": "roshankumar@gmail.com",
-      "id": 9
-    },
-    {
       "name": "Piyush Kuamr",
       "age": 27,
       "email": "piyushkumar123@gmail.com",
       "id": 10
-    },
-    {
-      "name": "Piyush Kuamr",
-      "age": 27,
-      "email": "piyushkumar123@gmail.com",
-      "id": 11
-    },
-    {
-      "name": "Sumit ",
-      "email": "Ffggb@‹",
-      "age": "Submit ",
-      "id": 12
     },
     {
       "name": "Sumit ",
@@ -78,51 +60,9 @@
     },
     {
       "name": "Sumit ",
-      "email": "Ffggb@‹",
-      "age": "Submit ",
-      "id": 18
-    },
-    {
-      "name": "",
-      "email": "",
-      "age": 0,
-      "id": 19
-    },
-    {
-      "name": "",
-      "email": "",
-      "age": 0,
-      "id": 20
-    },
-    {
-      "name": "",
-      "email": "",
-      "age": 0,
-      "id": 21
-    },
-    {
-      "name": "Sumit ",
-      "email": "Sumit ",
-      "age": "27",
-      "id": 22
-    },
-    {
-      "name": "Sumit ",
-      "email": "",
-      "age": "27",
-      "id": 23
-    },
-    {
-      "name": "Sumit ",
       "email": "",
       "age": "",
       "id": 24
-    },
-    {
-      "name": "",
-      "email": "",
-      "age": "",
-      "id": 25
     },
     {
       "name": "Ddf",
@@ -159,30 +99,6 @@
       "email": "",
       "age": "23",
       "id": 31
-    },
-    {
-      "name": "S",
-      "email": "",
-      "age": "",
-      "id": 32
-    },
-    {
-      "name": "A",
-      "email": "",
-      "age": "",
-      "id": 33
-    },
-    {
-      "name": "S",
-      "email": "S",
-      "age": "D",
-      "id": 34
-    },
-    {
-      "name": "S",
-      "email": "S",
-      "age": "S",
-      "id": 35
     }
   ]
 }
