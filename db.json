@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "name": "Ram kumar",
+      "age": 23,
+      "email": "ramkumar@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "SBhargava",
+      "age": 28,
+      "email": "sumitb12@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "ankit",
+      "id": 7
+    },
+    {
+      "name": "rohsan kumar",
+      "age": 23,
+      "email": "roshankumar@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "rohsan kumar",
+      "age": 23,
+      "email": "roshankumar@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Piyush Kuamr",
+      "age": 27,
+      "email": "piyushkumar123@gmail.com",
+      "id": 10
+    }
+  ]
+}
