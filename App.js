@@ -5,6 +5,7 @@ import FlatList1 from './Data/FlatList'
 import APIJsonServer from './Data/APIJsonServer'
 import SaveApi from './Data/SaveApi'
 import PostApi from './Data/PostApi'
+import MakeListCallAPI from './Data/MakeListCallAPI'
 
 const App = () => {
   return (
@@ -13,7 +14,8 @@ const App = () => {
       {/* <ScrollView1/> */}
       {/* <APIJsonServer/> */}
      {/* <SaveApi/> */}
-     <PostApi/>
+     {/* <PostApi/> */}
+     <MakeListCallAPI/>
     </View>
   )
 }
